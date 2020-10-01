@@ -13,9 +13,9 @@ class Navbar extends React.Component {
             <span className="font-weight-light">Platzi</span>
             <span className="font-weight-bold">Conf</span>
           </a>
-        </div>        
+        </div>
       </div>
-    )    
+    );
   }
 }
 
